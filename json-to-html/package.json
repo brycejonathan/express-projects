@@ -1,0 +1,11 @@
+{
+  "name": "json-to-html",
+  "version": "1.0.0",
+  "description": "Simple application that parses JSON to HTML written using pure Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Bryce",
+  "license": "ISC"
+}
